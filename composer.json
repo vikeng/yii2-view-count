@@ -1,0 +1,21 @@
+{
+    "name": "vikeng/yii2-view-count",
+    "description": "Page view counter",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"," count"," view"," page"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Энгель Виктор",
+            "email": "vikengui@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "vikeng\\viewCount\\": ""
+        }
+    }
+}
